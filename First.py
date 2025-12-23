@@ -1,1 +1,3 @@
 print("PSYCH");
+
+print("YO");
